@@ -1,8 +1,9 @@
 # todo_list_mb
-ToDo Lista Avançado
+ToDo List Advanced 
 
+Lista de tarefas com opções:
 
-
+- excluir | editar | check | pesquisar | filtrar
 
 
 <div style="display: inline_block"> <br>
